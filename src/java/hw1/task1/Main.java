@@ -99,5 +99,4 @@ public class Main {
         }
         return sum / (numbers.length * numbers[0].length);
     }
-
 }
